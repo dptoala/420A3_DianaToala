@@ -2,8 +2,8 @@ package com.modelingClasses;
 
 public class BankAccount {
     //Attributes
-    String accountHolderName;
-    double balance;
+    private String accountHolderName;
+    private double balance;
 
     //Methods Get and Set
     public String GetAccountHolderName(){
